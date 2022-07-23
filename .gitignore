@@ -1,0 +1,10 @@
+venv/
+.env
+to-do.txt
+countries_sample.json
+holidays.json
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
